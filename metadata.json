@@ -1,0 +1,6 @@
+{
+  "name": "Urdu Bhasha",
+  "description": "Complete Urdu language learning app in Urdu, Nepali, and English with interactive lessons, Nastaliq calligraphy, culture and history, quizzes, and audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Ornate Arch / Medallion Ring -->
+    <path
+        android:fillColor="#15F59E0B"
+        android:pathData="M54,23 A31,31 0 1,0 54,85 A31,31 0 1,0 54,23 Z" />
+
+    <path
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="1.8"
+        android:fillColor="#00000000"
+        android:pathData="M54,25 A29,29 0 1,0 54,83 A29,29 0 1,0 54,25 Z" />
+
+    <!-- Crescent motif on top -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,28 C52,28 50,29 48.5,30.5 C51,31 52.5,33.5 52,36 C51.5,38.5 49,40 46.5,39.5 C48,41.5 50.5,43 54,43 C58.1,43 61.5,39.6 61.5,35.5 C61.5,31.4 58.1,28 54,28 Z" />
+
+    <!-- Star point -->
+    <path
+        android:fillColor="#FDE68A"
+        android:pathData="M51,33 L52,35 L54,35 L52.5,36.2 L53,38.5 L51,37 L49,38.5 L49.5,36.2 L48,35 L50,35 Z" />
+
+    <!-- Open Book / Kitab base -->
+    <path
+        android:fillColor="#FDE68A"
+        android:pathData="M54,67 L34,57 C33,56.5 32,57.2 32,58.4 L32,71 C32,71.8 32.6,72.5 33.4,72.8 L53,79.5 C53.6,79.7 54.4,79.7 55,79.5 L74.6,72.8 C75.4,72.5 76,71.8 76,71 L76,58.4 C76,57.2 75,56.5 74,57 L54,67 Z" />
+
+    <!-- Left Book Page -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M53,65 L35,55 C34.4,54.7 34,54.1 34,53.4 L34,44 C34,43.2 34.8,42.6 35.6,43 L53,51 L53,65 Z" />
+
+    <!-- Right Book Page -->
+    <path
+        android:fillColor="#F3F4F6"
+        android:pathData="M55,65 L73,55 C73.6,54.7 74,54.1 74,53.4 L74,44 C74,43.2 73.2,42.6 72.4,43 L55,51 L55,65 Z" />
+
+    <!-- Calligraphy Lines on pages -->
+    <path
+        android:strokeColor="#047857"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round"
+        android:pathData="M38,48 C41,49.5 45,49 48,53 M38,53 C41,54.5 45,54 48,58" />
+
+    <path
+        android:strokeColor="#047857"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round"
+        android:pathData="M60,53 C63,49 67,49.5 70,48 M60,58 C63,54 67,54.5 70,53" />
+
+    <!-- Central Calligraphy Qalam / Feather Quill -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M54,39 C55.5,43 56,48 55.5,57 L52.5,57 C52,48 52.5,43 54,39 Z" />
+
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M54,57 L52.5,64 L55.5,64 Z" />
+</vector>
